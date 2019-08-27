@@ -24,3 +24,13 @@ The main aim of our program is to convert written code from one language to anot
 - **Inline Assembly Code**: A external to-be-added library, which can be used as a function, in C and C++ which allows assembly code to be placed appropriately in code and function as lines of code of C/C++.
 - **GNU**: The GNU Compiler Collection is a compiler system produced by the GNU Project supporting various programming languages. In this project, we use GNU for compilers of C, C++ and Java.
   1. **GCC**: C Code Compiler
+
+## COMMAND PROMPT's SIGNIFICANCE
+In this program, we hold Command Prompt ***CMD*** with a very huge significance. It helps us run several executions in our Application. As a result, I would be discussing a few commands in CMD with you to make you fully understand our program. 
+
+# Wiki
+We would be talking about several key factors in detail to explain the working of the program.
+**Contents to be Covered:**
+1. Compilation
+2. Functions in CMD
+3. YEET
