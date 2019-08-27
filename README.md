@@ -16,7 +16,7 @@ That's where we come in! IDE++ helps in this process and suitably converts C to 
 ## Objectives/Aim of this Project
 The main aim of our program is to convert written code from one language to another language. This converted code - even though not making sense to the visual eye -  have the exact same outputs!  This leads to the conclusion that can converted code and implement own code to make the required program. 
 
-## KEYWORDS
+## Keywords
 - **Source Code**: (High-level programming language) This is specifically designed by computer programmers, specify the actions to be performed to a computer.
 - **Assembly Code**: An assembly language implements a symbolic representation of the machine code needed to program a given CPU architecture. These files are saved with the file extension,”.asm”.
 - **Compiler**:  This is primarily used for programs that translates source code from a high-level programming language to a lower-level language. 
@@ -25,13 +25,13 @@ The main aim of our program is to convert written code from one language to anot
 - **GNU**: The GNU Compiler Collection is a compiler system produced by the GNU Project supporting various programming languages. In this project, we use GNU for compilers of C, C++ and Java.
   1. **GCC**: C Code Compiler
 
-## COMMAND PROMPT's SIGNIFICANCE
+## Command Prompt's Significance
 In this program, we hold Command Prompt ***CMD*** with a very huge significance. It helps us run several executions in our Application. As a result, I would be discussing a few commands in CMD with you to make you fully understand our program. 
 
 # Wiki
 We would be talking about several key factors in detail to explain the working of the program.
 <br>
 **Contents to be Covered:**
-1. Compilation
-2. Functions in CMD
-3. YEET
+i. Compilation
+ii. Functions in CMD
+iii. YEET
