@@ -16,6 +16,11 @@ That's where we come in! IDE++ helps in this process and suitably converts C to 
 ## Objectives/Aim of this Project
 The main aim of our program is to convert written code from one language to another language. This converted code - even though not making sense to the visual eye -  have the exact same outputs!  This leads to the conclusion that can converted code and implement own code to make the required program. 
 
-
-
-
+## KEYWORD TO KNOW TO UNDERSTAND THE MAKING OF THE PROGRAM
+- SOURCE CODE: (High-level programming language) This is specifically designed by computer programmers, specify the actions to be performed to a computer.
+- ASSEMBLY CODE: An assembly language implements a symbolic representation of the machine code needed to program a given CPU architecture. These files are saved with the file extension,”.asm”.
+- COMPILER:  This is primarily used for programs that translates source code from a high-level programming language to a lower-level language. 
+- DATABASE:  Database is a systematic collection of data which supports storage and manipulation of data and  makes data management easy.
+- INLINE ASSEMBLY CODE: A external to-be-added library, which can be used as a function, in C and C++ which allows assembly code to be placed appropriately in code and function as lines of code of C/C++.
+- GNU: The GNU Compiler Collection is a compiler system produced by the GNU Project supporting various programming languages. In this project, we use GNU for compilers of C, C++ and Java.
+  - GCC: C Code Compiler
