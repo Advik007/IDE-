@@ -20,8 +20,6 @@ The main aim of our program is to convert written code from one language to anot
 - **Source Code**: (High-level programming language) This is specifically designed by computer programmers, specify the actions to be performed to a computer.
 - **Assembly Code**: An assembly language implements a symbolic representation of the machine code needed to program a given CPU architecture. These files are saved with the file extension,”.asm”.
 - **Compiler**:  This is primarily used for programs that translates source code from a high-level programming language to a lower-level language. 
-- **Database**:  Database is a systematic collection of data which supports storage and manipulation of data and  makes data management easy.
-- **Inline Assembly Code**: A external to-be-added library, which can be used as a function, in C and C++ which allows assembly code to be placed appropriately in code and function as lines of code of C/C++.
 - **GNU**: The GNU Compiler Collection is a compiler system produced by the GNU Project supporting various programming languages. In this project, we use GNU for compilers of C, C++ and Java.
   1. **GCC**: C Code Compiler
 
@@ -49,6 +47,6 @@ Even such so, we use GCC (C Code Compiler & Debugger) to successfully compile th
   2. Installation
   3. System Variables
   
-# i. Downloading
+#### i. Downloading
 - Open [MinGW website](http://www.mingw.org).
 - 
