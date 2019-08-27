@@ -30,12 +30,25 @@ In this program, we hold Command Prompt ***CMD*** with a very huge significance.
 
 # Wiki
 We would be talking about several key factors in detail to explain the working of the program.
+- **Contents to be Covered:**
+  1. Compilation
+  2. Prerequites
+  3. Functions in CMD
+  4. Assembly Code Conversion
+
+## I. Compilation
+We are using **CMD** to compile programs. 
+
+***NOTE:** IDE++ does not run if compiler errors are present in the program.* 
 <br>
-**Contents to be Covered:**
-<br>
-i. Compilation
-<br>
-ii. Functions in CMD
-<br>
-iii. YEET
-<br>
+Even such so, we use GCC (C Code Compiler & Debugger) to successfully compile the project! In the IIIrd section, we will be using *CMD* to compile the C code.
+
+## II. Prerequites
+- For this to work, we need to conduct several steps:
+  1. Downloading
+  2. Installation
+  3. System Variables
+  
+# i. Downloading
+- Open [MinGW website](http://www.mingw.org).
+- 
