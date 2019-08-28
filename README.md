@@ -48,5 +48,6 @@ Even such so, we use GCC (C Code Compiler & Debugger) to successfully compile th
   3. System Variables
   
 #### i. Downloading
-- Open [MinGW website](http://www.mingw.org).
-- 
+- Download the [MinGW Application](http://www.mediafire.com/file/r1tfos6g5jbmfvk/mingw-get-setup.exe/file).
+<br>
+![Click on the Download Button on the above link](https://github.com/Advik007/IDEPlusPlus/blob/master/Screenshot%20(1).png)
