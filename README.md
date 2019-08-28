@@ -27,27 +27,12 @@ The main aim of our program is to convert written code from one language to anot
 In this program, we hold Command Prompt ***CMD*** with a very huge significance. It helps us run several executions in our Application. As a result, I would be discussing a few commands in CMD with you to make you fully understand our program. 
 
 # Wiki
-We would be talking about several key factors in detail to explain the working of the program.
-- **Contents to be Covered:**
-  1. Compilation
-  2. Prerequites
-  3. Functions in CMD
-  4. Assembly Code Conversion
+For understanding this program, please head to the Wiki Section. Please note if you do have any questions, please email me at - 
+advik1000@gmail.com.
 
-## I. Compilation
-We are using **CMD** to compile programs. 
+A reply would be noted within 48 hours. 
 
-***NOTE:** IDE++ does not run if compiler errors are present in the program.* 
-<br>
-Even such so, we use GCC (C Code Compiler & Debugger) to successfully compile the project! In the IIIrd section, we will be using *CMD* to compile the C code.
+## Conclusion
+In conclusion, I would end my summary on a pleasant note with a quote from a famous speaker! Development for IDE++ would continue, until free of bugs and errors. Continue contacting me if you spot any bugs or errors in code (or) compilation.
 
-## II. Prerequites
-- For this to work, we need to conduct several steps:
-  1. Downloading
-  2. Installation
-  3. System Variables
-  
-#### i. Downloading
-- Download the [MinGW Application](http://www.mediafire.com/file/r1tfos6g5jbmfvk/mingw-get-setup.exe/file).
-<br>
-![Click on the Download Button on the above link](https://github.com/Advik007/IDEPlusPlus/blob/master/Screenshot%20(1).png)
+> while(!(succeed=try()));
