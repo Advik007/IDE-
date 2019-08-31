@@ -26,6 +26,11 @@ The main aim of our program is to convert written code from one language to anot
 ## Command Prompt's Significance
 In this program, we hold Command Prompt ***CMD*** with a very huge significance. It helps us run several executions in our Application. As a result, I would be discussing a few commands in CMD with you to make you fully understand our program. 
 
+## Implications \ Precautions
+If you plan on using this product, be warned - any mistakes made while trying to install or any damages inflicted - *may lead to damages to your system*. 
+
+**CLAUSE 1:** *For this purpose, if any instruction or any mistakes made by ANY USER, is the fault of the user themselves - since I have sufficiently explained what to do in the Wiki Section. As a result, any damages inflicted on the User's Computer, is subject to the fault of the User's but not that of the Creator's.*
+
 # Wiki
 For understanding this program, please head to the Wiki Section. Please note if you do have any questions, please email me at - 
 advik1000@gmail.com.
